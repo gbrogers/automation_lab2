@@ -1,1 +1,1 @@
-# automation_lab2
+# automation-lab
